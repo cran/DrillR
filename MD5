@@ -1,0 +1,14 @@
+e1d33e88554c566c0e53825165fc086c *DESCRIPTION
+ce6fd2e7b716e181e19eaaf0a89c6c15 *NAMESPACE
+ae58e4aa1efb873d42026b451d0331b4 *R/RDrillClass.R
+b1c52708613430a9de5b5b1301ff9a6f *R/RDrillGeneric.R
+f700b3b554ae2aedd8727933b448b966 *man/drill-class.Rd
+c654738dee886a97452d17ab0f19e0de *man/rd_active.Rd
+f527f986cde5d26048486acd4cafe459 *man/rd_metrics.Rd
+45a982eca6eb27f23b8c2cfcc38129bd *man/rd_options.Rd
+35975c64abbc99b0662f657ed3069a83 *man/rd_profiles.Rd
+75da0ad83f7f42e70dac18c0fc374b4d *man/rd_query.Rd
+11c31e61ec7f028946203d68193174c3 *man/rd_stats.Rd
+1e75a78e227a111c4f74d0af8952fd71 *man/rd_storages.Rd
+b9be28b1fc11aa796e80e79bbe2a367f *man/rd_threads.Rd
+1f54649fa2068f7bd85865b1ac59130b *man/rdrill.Rd
